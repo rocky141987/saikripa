@@ -27,6 +27,6 @@ jobs:
         with:
           context: DockerFileFolder/   or .
           push: true
-          tags: rocky141987/sai55:latest
+          tags: rocky141987/sai55
 
 
